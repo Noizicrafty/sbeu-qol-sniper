@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+data/
+.pytest_cache/
+build/
+dist/
+*.spec
+.env
+.env.*
+!.env.example
+*.log
+.idea/
+.vscode/
+*.zip

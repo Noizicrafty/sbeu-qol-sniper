@@ -1,0 +1,1977 @@
+{
+  "description": "Manual visual annotations of visible slots only. Names are regex item families; identical presets are not resolved by these annotations. Coordinates in source 1920x1080. Quick access duplicates and clipped items excluded.",
+  "frames": {
+    "223416": {
+      "inventory": [
+        {
+          "name": "M32",
+          "box": [
+            65,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "balaclava|Nutsack",
+          "box": [
+            434,
+            167,
+            127,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Zhuk|PRESS",
+          "box": [
+            249,
+            333,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "AKMS",
+          "box": [
+            65,
+            502,
+            312,
+            127
+          ],
+          "rotated": false
+        },
+        {
+          "name": "A-2607",
+          "box": [
+            434,
+            670,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Bank Robber",
+          "box": [
+            656,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "AK.*alum|AK.*30.*round.*magazine",
+          "box": [
+            791,
+            167,
+            65,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Esmarch",
+          "box": [
+            727,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "F-1",
+          "box": [
+            797,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Immobilizing splint",
+          "box": [
+            867,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Duffle|Sport bag",
+          "box": [
+            656,
+            452,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aseptic bandage",
+          "box": [
+            788,
+            452,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Financial documents",
+          "box": [
+            852,
+            452,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Hot Rod",
+          "box": [
+            916,
+            452,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Slickers",
+          "box": [
+            980,
+            452,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aramid fiber",
+          "box": [
+            916,
+            516,
+            126,
+            64
+          ],
+          "rotated": false
+        }
+      ],
+      "loot": [
+        {
+          "name": "TOZ-106.*shotgun",
+          "box": [
+            1322,
+            134,
+            312,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "A-2607",
+          "box": [
+            1690,
+            304,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Security vest",
+          "box": [
+            1322,
+            477,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "TOZ-106.*2-shot",
+          "box": [
+            1456,
+            477,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "CAT hemostatic",
+          "box": [
+            1526,
+            542,
+            64,
+            64
+          ],
+          "rotated": false
+        }
+      ]
+    },
+    "223437": {
+      "inventory": [
+        {
+          "name": "M32",
+          "box": [
+            65,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "balaclava|Nutsack",
+          "box": [
+            434,
+            167,
+            127,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Zhuk|PRESS",
+          "box": [
+            249,
+            333,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "AKMS",
+          "box": [
+            65,
+            502,
+            312,
+            127
+          ],
+          "rotated": false
+        },
+        {
+          "name": "A-2607",
+          "box": [
+            434,
+            670,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Bank Robber",
+          "box": [
+            656,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "AK.*alum|AK.*30.*round.*magazine",
+          "box": [
+            791,
+            167,
+            65,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Esmarch",
+          "box": [
+            727,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "F-1",
+          "box": [
+            797,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Immobilizing splint",
+          "box": [
+            867,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Duffle|Sport bag",
+          "box": [
+            656,
+            452,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aseptic bandage",
+          "box": [
+            788,
+            452,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Financial documents",
+          "box": [
+            852,
+            452,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Hot Rod",
+          "box": [
+            916,
+            452,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Slickers",
+          "box": [
+            980,
+            452,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aramid fiber",
+          "box": [
+            916,
+            516,
+            126,
+            64
+          ],
+          "rotated": false
+        }
+      ],
+      "loot": [
+        {
+          "name": "Shustrilo",
+          "box": [
+            1265,
+            79,
+            64,
+            190
+          ],
+          "rotated": false
+        }
+      ]
+    },
+    "223447": {
+      "inventory": [
+        {
+          "name": "M32",
+          "box": [
+            65,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "balaclava|Nutsack",
+          "box": [
+            434,
+            167,
+            127,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Zhuk|PRESS",
+          "box": [
+            249,
+            333,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "AKMS",
+          "box": [
+            65,
+            502,
+            312,
+            127
+          ],
+          "rotated": false
+        },
+        {
+          "name": "A-2607",
+          "box": [
+            434,
+            670,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Bank Robber",
+          "box": [
+            656,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Esmarch",
+          "box": [
+            727,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "F-1",
+          "box": [
+            797,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Immobilizing splint",
+          "box": [
+            867,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Duffle|Sport bag",
+          "box": [
+            656,
+            452,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Financial documents",
+          "box": [
+            852,
+            452,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Hot Rod",
+          "box": [
+            916,
+            452,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aramid fiber",
+          "box": [
+            916,
+            516,
+            126,
+            64
+          ],
+          "rotated": false
+        }
+      ],
+      "loot": [
+        {
+          "name": "Shustrilo",
+          "box": [
+            1265,
+            79,
+            64,
+            190
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Slickers",
+          "box": [
+            1391,
+            142,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aseptic bandage",
+          "box": [
+            1328,
+            205,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "AK.*alum|AK.*30.*round.*magazine",
+          "box": [
+            1454,
+            79,
+            64,
+            128
+          ],
+          "rotated": false
+        }
+      ]
+    },
+    "223839": {
+      "inventory": [
+        {
+          "name": "M32",
+          "box": [
+            65,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "balaclava|Nutsack",
+          "box": [
+            434,
+            167,
+            127,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Zhuk|PRESS",
+          "box": [
+            249,
+            333,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "AKMS",
+          "box": [
+            65,
+            502,
+            312,
+            127
+          ],
+          "rotated": false
+        },
+        {
+          "name": "A-2607",
+          "box": [
+            434,
+            670,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Bank Robber",
+          "box": [
+            656,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "AK.*alum|AK.*30.*round.*magazine",
+          "box": [
+            791,
+            167,
+            65,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Esmarch",
+          "box": [
+            727,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "F-1",
+          "box": [
+            797,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Immobilizing splint",
+          "box": [
+            867,
+            343,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Duffle|Sport bag",
+          "box": [
+            656,
+            452,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Financial documents",
+          "box": [
+            931,
+            167,
+            65,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Project documentation",
+          "box": [
+            1001,
+            167,
+            65,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aseptic bandage",
+          "box": [
+            852,
+            452,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Pumpkin with sweets",
+          "box": [
+            788,
+            516,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aramid fiber",
+          "box": [
+            916,
+            580,
+            126,
+            64
+          ],
+          "rotated": false
+        }
+      ],
+      "loot": [
+        {
+          "name": "Zibbo",
+          "box": [
+            1265,
+            79,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "GPhone",
+          "box": [
+            1328,
+            79,
+            64,
+            64
+          ],
+          "rotated": false
+        }
+      ]
+    },
+    "224033": {
+      "inventory": [
+        {
+          "name": "M32",
+          "box": [
+            65,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "balaclava|Nutsack",
+          "box": [
+            434,
+            167,
+            127,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "SCAR-H|Mk 17",
+          "box": [
+            65,
+            502,
+            312,
+            127
+          ],
+          "rotated": false
+        },
+        {
+          "name": "A-2607",
+          "box": [
+            434,
+            670,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Esmarch",
+          "box": [
+            727,
+            338,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Immobilizing splint",
+          "box": [
+            867,
+            338,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Duffle|Sport bag",
+          "box": [
+            656,
+            447,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aseptic bandage",
+          "box": [
+            852,
+            447,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Financial documents",
+          "box": [
+            916,
+            447,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Project documentation",
+          "box": [
+            980,
+            447,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Pumpkin with sweets",
+          "box": [
+            788,
+            511,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aramid fiber",
+          "box": [
+            916,
+            575,
+            126,
+            64
+          ],
+          "rotated": false
+        }
+      ],
+      "loot": [
+        {
+          "name": "D3CRX",
+          "box": [
+            1322,
+            85,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "SCAR-H.*magazine|Mk17.*magazine",
+          "box": [
+            1456,
+            85,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "SCAR-H.*magazine|Mk17.*magazine",
+          "box": [
+            1526,
+            85,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "CAT hemostatic",
+          "box": [
+            1666,
+            85,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aluminum splint",
+          "box": [
+            1666,
+            149,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Salewa",
+          "box": [
+            1456,
+            219,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Morphine",
+          "box": [
+            1666,
+            219,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Dogtag",
+          "box": [
+            1738,
+            400,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "LBT-1476",
+          "box": [
+            1322,
+            570,
+            128,
+            128
+          ],
+          "rotated": false
+        }
+      ]
+    },
+    "224657": {
+      "inventory": [
+        {
+          "name": "M32",
+          "box": [
+            65,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "TC 800",
+          "box": [
+            249,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "balaclava|Nutsack",
+          "box": [
+            434,
+            167,
+            127,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Interceptor OTV",
+          "box": [
+            249,
+            333,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "SCAR-H|Mk 17",
+          "box": [
+            65,
+            502,
+            312,
+            127
+          ],
+          "rotated": false
+        },
+        {
+          "name": "MDR",
+          "box": [
+            65,
+            670,
+            312,
+            127
+          ],
+          "rotated": false
+        },
+        {
+          "name": "A-2607",
+          "box": [
+            434,
+            670,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "D3CRX",
+          "box": [
+            656,
+            103,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "SCAR-H.*magazine|Mk17.*magazine",
+          "box": [
+            791,
+            103,
+            65,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "PMAG.*GEN M3",
+          "box": [
+            931,
+            103,
+            65,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aramid fiber",
+          "box": [
+            1001,
+            103,
+            65,
+            128
+          ],
+          "rotated": true
+        },
+        {
+          "name": "Salewa",
+          "box": [
+            791,
+            237,
+            65,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "M67",
+          "box": [
+            861,
+            301,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Army bandage",
+          "box": [
+            931,
+            237,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Army bandage",
+          "box": [
+            931,
+            307,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Morphine",
+          "box": [
+            656,
+            419,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Esmarch",
+          "box": [
+            727,
+            419,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "M67",
+          "box": [
+            797,
+            419,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Immobilizing splint",
+          "box": [
+            867,
+            419,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Tri-Zip",
+          "box": [
+            656,
+            528,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Analgin",
+          "box": [
+            788,
+            528,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Pumpkin with sweets",
+          "box": [
+            852,
+            528,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "PMAG.*GEN M3",
+          "box": [
+            980,
+            528,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "CAT hemostatic",
+          "box": [
+            1044,
+            528,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Immobilizing splint",
+          "box": [
+            788,
+            592,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Financial documents",
+          "box": [
+            1044,
+            592,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Project documentation",
+          "box": [
+            788,
+            656,
+            128,
+            64
+          ],
+          "rotated": true
+        },
+        {
+          "name": "Dogtag",
+          "box": [
+            788,
+            720,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Paradigm Shipping poster",
+          "box": [
+            788,
+            784,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Pumpkin with sweets",
+          "box": [
+            916,
+            720,
+            128,
+            128
+          ],
+          "rotated": false
+        }
+      ],
+      "loot": [
+        {
+          "name": "duck pate",
+          "box": [
+            1265,
+            79,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Nooby",
+          "box": [
+            1328,
+            79,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Vita juice",
+          "box": [
+            1391,
+            79,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "MRE",
+          "box": [
+            1454,
+            79,
+            64,
+            128
+          ],
+          "rotated": false
+        }
+      ]
+    },
+    "224755": {
+      "inventory": [
+        {
+          "name": "M32",
+          "box": [
+            65,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "TC 800",
+          "box": [
+            249,
+            167,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "balaclava|Nutsack",
+          "box": [
+            434,
+            167,
+            127,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Interceptor OTV",
+          "box": [
+            249,
+            333,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "SCAR-H|Mk 17",
+          "box": [
+            65,
+            502,
+            312,
+            127
+          ],
+          "rotated": false
+        },
+        {
+          "name": "MDR",
+          "box": [
+            65,
+            670,
+            312,
+            127
+          ],
+          "rotated": false
+        },
+        {
+          "name": "A-2607",
+          "box": [
+            434,
+            670,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "D3CRX",
+          "box": [
+            656,
+            103,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "SCAR-H.*magazine|Mk17.*magazine",
+          "box": [
+            791,
+            103,
+            65,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "PMAG.*GEN M3",
+          "box": [
+            931,
+            103,
+            65,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Aramid fiber",
+          "box": [
+            1001,
+            103,
+            65,
+            128
+          ],
+          "rotated": true
+        },
+        {
+          "name": "Salewa",
+          "box": [
+            791,
+            237,
+            65,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "M67",
+          "box": [
+            861,
+            301,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Army bandage",
+          "box": [
+            931,
+            237,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Army bandage",
+          "box": [
+            931,
+            307,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Morphine",
+          "box": [
+            656,
+            419,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Esmarch",
+          "box": [
+            727,
+            419,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "M67",
+          "box": [
+            797,
+            419,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Immobilizing splint",
+          "box": [
+            867,
+            419,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Tri-Zip",
+          "box": [
+            656,
+            528,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Analgin",
+          "box": [
+            788,
+            528,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Pumpkin with sweets",
+          "box": [
+            852,
+            528,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "PMAG.*GEN M3",
+          "box": [
+            980,
+            528,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "CAT hemostatic",
+          "box": [
+            1044,
+            528,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Immobilizing splint",
+          "box": [
+            788,
+            592,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Financial documents",
+          "box": [
+            1044,
+            592,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Project documentation",
+          "box": [
+            788,
+            656,
+            128,
+            64
+          ],
+          "rotated": true
+        },
+        {
+          "name": "Dogtag",
+          "box": [
+            788,
+            720,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Paradigm Shipping poster",
+          "box": [
+            788,
+            784,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "IFAK",
+          "box": [
+            861,
+            237,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Nooby",
+          "box": [
+            852,
+            720,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Purified water",
+          "box": [
+            916,
+            720,
+            128,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "MRE",
+          "box": [
+            916,
+            656,
+            128,
+            64
+          ],
+          "rotated": true
+        },
+        {
+          "name": "MRE",
+          "box": [
+            1044,
+            720,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "sausage",
+          "box": [
+            916,
+            848,
+            128,
+            64
+          ],
+          "rotated": false
+        }
+      ],
+      "loot": [
+        {
+          "name": "Ibuprofen",
+          "box": [
+            1265,
+            143,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "hydrogen peroxide",
+          "box": [
+            1328,
+            143,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Vita juice",
+          "box": [
+            1391,
+            79,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Analgin",
+          "box": [
+            1517,
+            79,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Analgin",
+          "box": [
+            1706,
+            79,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Tarkovskaya vodka",
+          "box": [
+            1580,
+            79,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "saline solution",
+          "box": [
+            1769,
+            79,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Slickers",
+          "box": [
+            1706,
+            143,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Slickers",
+          "box": [
+            1769,
+            143,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "mayo",
+          "box": [
+            1832,
+            143,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "herring",
+          "box": [
+            1391,
+            207,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "squash spread",
+          "box": [
+            1517,
+            207,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Army crackers",
+          "box": [
+            1580,
+            207,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Medical tools",
+          "box": [
+            1517,
+            143,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Medical tools",
+          "box": [
+            1643,
+            207,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Army bandage",
+          "box": [
+            1832,
+            207,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "apple juice",
+          "box": [
+            1391,
+            271,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Max Energy",
+          "box": [
+            1517,
+            271,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Medical bloodset",
+          "box": [
+            1580,
+            271,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "AI-2",
+          "box": [
+            1643,
+            271,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "hydrogen peroxide",
+          "box": [
+            1706,
+            271,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "milk",
+          "box": [
+            1769,
+            271,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Emelya",
+          "box": [
+            1832,
+            271,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Iskra",
+          "box": [
+            1265,
+            335,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "instant noodles",
+          "box": [
+            1328,
+            335,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "squash spread",
+          "box": [
+            1328,
+            399,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Grand juice",
+          "box": [
+            1454,
+            335,
+            64,
+            128
+          ],
+          "rotated": false
+        },
+        {
+          "name": "white salt",
+          "box": [
+            1643,
+            335,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "Max Energy",
+          "box": [
+            1706,
+            335,
+            64,
+            64
+          ],
+          "rotated": false
+        },
+        {
+          "name": "milk",
+          "box": [
+            1832,
+            335,
+            64,
+            128
+          ],
+          "rotated": false
+        }
+      ]
+    }
+  }
+}

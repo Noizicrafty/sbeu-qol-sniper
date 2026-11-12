@@ -1,0 +1,2796 @@
+{
+  "source": "https://tarkov-market.ru/progression/hideout",
+  "captured": "2026-11-11",
+  "stations": {
+    "Air Filtering Unit": [
+      {
+        "bonuses": [
+          "Ускорение прокачки физических навыков +40%"
+        ],
+        "cost": "531 995₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 3"
+          },
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 3"
+          }
+        ],
+        "time": "48 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Воздушный фильтр для противогаза",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Военная гофрированная трубка",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Военный фильтр питания",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Bitcoin Farm": [
+      {
+        "bonuses": [
+          "Позволяет фармить биткоины",
+          "Дает +10 доп. слотов для Видеокарт"
+        ],
+        "cost": "2 176 655₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_IntelligenceCenter",
+            "label": "Разведцентр 2"
+          }
+        ],
+        "time": "34 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Процессорный кулер",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Силовой кабель",
+            "width": 79
+          },
+          {
+            "height": 80,
+            "label": "Блок питания",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Тройник",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Твердотельный накопитель VPX Flash Storage Module",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Позволяет фармить биткоины",
+          "Дает +15 доп. слотов для Видеокарт (всего 25)"
+        ],
+        "cost": "2 386 655₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_BitcoinFarm",
+            "label": "Биткоин Ферма 1"
+          },
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 3"
+          }
+        ],
+        "time": "50 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Процессорный кулер",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Военный фильтр питания",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Реле контроля фаз",
+            "width": 40
+          },
+          {
+            "height": 80,
+            "label": "Блок питания",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Печатная плата",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Позволяет фармить биткоины",
+          "Дает +25 доп. слотов для Видеокарт (всего 50)"
+        ],
+        "cost": "3 177 213₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_BitcoinFarm",
+            "label": "Биткоин Ферма 2"
+          },
+          {
+            "icon": "hideout-icon icon_SolarPower",
+            "label": "Солнечная Батарея 1"
+          },
+          {
+            "icon": "hideout-icon icon_WaterCollector",
+            "label": "Водосборник 3"
+          }
+        ],
+        "time": "106 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Военный аккумулятор 6-СТЭН-140-М",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Процессорный кулер",
+            "width": 40
+          },
+          {
+            "height": 80,
+            "label": "Электродвигатель",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Датчик давления",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Силиконовая трубка",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Booze Generator": [
+      {
+        "bonuses": [],
+        "cost": "2 348 988₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_NutritionUnit",
+            "label": "Пищеблок 3"
+          },
+          {
+            "icon": "hideout-icon icon_WaterCollector",
+            "label": "Водосборник 3"
+          }
+        ],
+        "time": "48 часа(ов)",
+        "items": [
+          {
+            "height": 75,
+            "label": "Аналоговый термометр",
+            "width": 38
+          },
+          {
+            "height": 38,
+            "label": "Гофрированный шланг",
+            "width": 75
+          },
+          {
+            "height": 38,
+            "label": "Набор металлических частей",
+            "width": 38
+          },
+          {
+            "height": 75,
+            "label": "Шарнирный ключ КШС",
+            "width": 38
+          },
+          {
+            "height": 38,
+            "label": "Датчик давления",
+            "width": 75
+          },
+          {
+            "height": 38,
+            "label": "Спираль накаливания",
+            "width": 38
+          },
+          {
+            "height": 38,
+            "label": "Силиконовая трубка",
+            "width": 38
+          }
+        ]
+      }
+    ],
+    "Defective Wall": [
+      {
+        "bonuses": [],
+        "cost": "0₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Medstation",
+            "label": "Медблок 1"
+          },
+          {
+            "icon": "hideout-icon icon_WaterCollector",
+            "label": "Водосборник 1"
+          }
+        ],
+        "time": "Мгновенно",
+        "items": []
+      },
+      {
+        "bonuses": [],
+        "cost": "0₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 1"
+          }
+        ],
+        "time": "12 часа(ов)",
+        "items": []
+      },
+      {
+        "bonuses": [],
+        "cost": "0₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 2"
+          }
+        ],
+        "time": "24 часа(ов)",
+        "items": []
+      },
+      {
+        "bonuses": [],
+        "cost": "110 000₽",
+        "level": 4,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 3"
+          }
+        ],
+        "time": "3 часа(ов)",
+        "items": [
+          {
+            "height": 80,
+            "label": "Кувалда \"Лютый удар\"",
+            "width": 32
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "48 222₽",
+        "level": 5,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 4"
+          }
+        ],
+        "time": "3 часа(ов)",
+        "items": [
+          {
+            "height": 79,
+            "label": "Ножницы для резки металла",
+            "width": 40
+          },
+          {
+            "height": 80,
+            "label": "Набор инструментов",
+            "width": 80
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "649 547₽",
+        "level": 6,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 5"
+          }
+        ],
+        "time": "12 часа(ов)",
+        "items": [
+          {
+            "height": 34,
+            "label": "Пучок проводов",
+            "width": 34
+          },
+          {
+            "height": 34,
+            "label": "Гофрированный шланг",
+            "width": 68
+          },
+          {
+            "height": 34,
+            "label": "Монтажный скотч",
+            "width": 34
+          },
+          {
+            "height": 34,
+            "label": "Лампа накаливания",
+            "width": 34
+          },
+          {
+            "height": 34,
+            "label": "Набор металлических частей",
+            "width": 34
+          },
+          {
+            "height": 34,
+            "label": "Плоскогубцы Elite",
+            "width": 34
+          },
+          {
+            "height": 69,
+            "label": "Набор инструментов",
+            "width": 69
+          },
+          {
+            "height": 69,
+            "label": "Монтажная пена Xenomorph",
+            "width": 23
+          }
+        ]
+      }
+    ],
+    "Generator": [
+      {
+        "bonuses": [
+          "Доп. слоты для канистр +2"
+        ],
+        "cost": "133 333₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Security",
+            "label": "Безопасность 1"
+          }
+        ],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "Свеча зажигания",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Доп. слоты для канистр +2 (всего 4)"
+        ],
+        "cost": "1 431 652₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 1"
+          },
+          {
+            "icon": "hideout-icon icon_Security",
+            "label": "Безопасность 1"
+          },
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 1"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 79,
+            "label": "Кабелерез Bulbex",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Пучок проводов",
+            "width": 40
+          },
+          {
+            "height": 80,
+            "label": "Электродвигатель",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Реле контроля фаз",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Доп. слоты для канистр +2 (всего 6)"
+        ],
+        "cost": "2 303 203₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 2"
+          },
+          {
+            "icon": "hideout-icon icon_Security",
+            "label": "Безопасность 3"
+          },
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 3"
+          }
+        ],
+        "time": "16 часа(ов)",
+        "items": [
+          {
+            "height": 80,
+            "label": "Электродвигатель",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Набор металлических частей",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Реле контроля фаз",
+            "width": 40
+          },
+          {
+            "height": 80,
+            "label": "Блок питания",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Свеча зажигания",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Gym": [
+      {
+        "bonuses": [],
+        "cost": "517 452₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 6"
+          },
+          {
+            "icon": "hideout-icon icon_Illumination",
+            "label": "Освещение 2"
+          },
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 2"
+          }
+        ],
+        "time": "4 часа(ов)",
+        "items": [
+          {
+            "height": 37,
+            "label": "Болты",
+            "width": 37
+          },
+          {
+            "height": 75,
+            "label": "Электродрель",
+            "width": 75
+          },
+          {
+            "height": 37,
+            "label": "Изолента",
+            "width": 37
+          },
+          {
+            "height": 74,
+            "label": "Ножницы для резки металла",
+            "width": 37
+          },
+          {
+            "height": 37,
+            "label": "Гайки",
+            "width": 37
+          },
+          {
+            "height": 75,
+            "label": "Набор инструментов",
+            "width": 75
+          },
+          {
+            "height": 37,
+            "label": "WD-40 (100мл)",
+            "width": 37
+          }
+        ]
+      }
+    ],
+    "Heating": [
+      {
+        "bonuses": [
+          "Восстановление энергии +2 ЕР/ч"
+        ],
+        "cost": "71 000₽",
+        "level": 1,
+        "prerequisites": [],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "Обычные спички",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Восстановление энергии +5 ЕР/ч (всего 7)"
+        ],
+        "cost": "471 105₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Heating",
+            "label": "Обогрев 1"
+          },
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 1"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Зажигалка Crickent",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Сухое горючее",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Охотничьи спички",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Восстановление энергии +7 ЕР/ч (всего 14)",
+          "Скорость удаления негативных эффектов -50%"
+        ],
+        "cost": "1 672 280₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 2"
+          },
+          {
+            "icon": "hideout-icon icon_Heating",
+            "label": "Обогрев 2"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 2"
+          }
+        ],
+        "time": "8 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Пучок проводов",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Военная гофрированная трубка",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Реле контроля фаз",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Спираль накаливания",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Illumination": [
+      {
+        "bonuses": [
+          "Освещение парафиновыми свечами"
+        ],
+        "cost": "53 000₽",
+        "level": 1,
+        "prerequisites": [],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "Зажигалка Crickent",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Освещение лампочками накаливания"
+        ],
+        "cost": "668 434₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 1"
+          },
+          {
+            "icon": "hideout-icon icon_Illumination",
+            "label": "Освещение 1"
+          }
+        ],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "Пучок проводов",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Лампа накаливания",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Освещение лампами дневного света"
+        ],
+        "cost": "978 427₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 2"
+          },
+          {
+            "icon": "hideout-icon icon_Illumination",
+            "label": "Освещение 2"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 1"
+          }
+        ],
+        "time": "6 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Пучок проводов",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Конденсаторы",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Энергосберегающая лампа",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Intelligence Center": [
+      {
+        "bonuses": [
+          "Откат Дикого -15%",
+          "Денежная награда за квесты +5%"
+        ],
+        "cost": "353 133₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 1"
+          },
+          {
+            "icon": "hideout-icon icon_Security",
+            "label": "Безопасность 1"
+          },
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 1"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 1"
+          }
+        ],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "План-карта Завода",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Папка с разведданными",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Силовой кабель",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Материалы топографической разведки",
+            "width": 79
+          },
+          {
+            "height": 79,
+            "label": "Рабочий LCD дисплей",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Время возврата страховки -20%",
+          "Денежная награда за квесты +10% (всего +15%)"
+        ],
+        "cost": "1 298 133₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_IntelligenceCenter",
+            "label": "Разведцентр 1"
+          },
+          {
+            "icon": "hideout-icon icon_Medstation",
+            "label": "Медблок 2"
+          },
+          {
+            "icon": "hideout-icon icon_NutritionUnit",
+            "label": "Пищеблок 2"
+          },
+          {
+            "icon": "hideout-icon icon_Security",
+            "label": "Безопасность 2"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Поврежденный жесткий диск",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Папка с разведданными",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Силовой кабель",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Защищенный флеш-накопитель",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Откат Дикого -20% (всего -35%)",
+          "Комиссия на Барахолке -30%"
+        ],
+        "cost": "3 137 877₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 3"
+          },
+          {
+            "icon": "hideout-icon icon_IntelligenceCenter",
+            "label": "Разведцентр 2"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 3"
+          }
+        ],
+        "time": "24 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Передовой блок усилителя GPS сигнала",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Военный кабель",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Военный COFDM беспроводной передатчик сигналов",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Военный флеш-накопитель",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Защищенная кассета с магнитной пленкой",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Твердотельный накопитель VPX Flash Storage Module",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Lavatory": [
+      {
+        "bonuses": [],
+        "cost": "84 220₽",
+        "level": 1,
+        "prerequisites": [],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "Шило",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Кусок мыла",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Рулон туалетной бумаги",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Зубная паста",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "886 290₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Lavatory",
+            "label": "Санузел 1"
+          },
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 1"
+          },
+          {
+            "icon": "hideout-icon icon_WaterCollector",
+            "label": "Водосборник 1"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Гофрированный шланг",
+            "width": 79
+          },
+          {
+            "height": 80,
+            "label": "Электродрель",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Липкая лента \"KEKТЕЙП\"",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Пакет саморезов",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Набор для шитья",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "1 131 100₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Lavatory",
+            "label": "Санузел 2"
+          },
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 2"
+          },
+          {
+            "icon": "hideout-icon icon_WaterCollector",
+            "label": "Водосборник 2"
+          }
+        ],
+        "time": "7 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Гофрированный шланг",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Датчик давления",
+            "width": 79
+          },
+          {
+            "height": 80,
+            "label": "Набор инструментов",
+            "width": 80
+          },
+          {
+            "height": 80,
+            "label": "Монтажная пена Xenomorph",
+            "width": 27
+          }
+        ]
+      }
+    ],
+    "Library": [
+      {
+        "bonuses": [
+          "Дополнительный опыт +15%",
+          "Ускорение прокачки практических навыков +30%"
+        ],
+        "cost": "1 000 409₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_RestSpace",
+            "label": "Зона Отдыха 3"
+          }
+        ],
+        "time": "54 часа(ов)",
+        "items": [
+          {
+            "height": 79,
+            "label": "Книга рецептов BakeEzy",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Ювелирная цепочка",
+            "width": 40
+          },
+          {
+            "height": 79,
+            "label": "Ежедневник",
+            "width": 40
+          },
+          {
+            "height": 79,
+            "label": "Статуэтка коня",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Тонкий ежедневник",
+            "width": 40
+          },
+          {
+            "height": 79,
+            "label": "Техническая документация",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Medstation": [
+      {
+        "bonuses": [
+          "Скорость восстановление здоровья +27 НР/ч"
+        ],
+        "cost": "132 371₽",
+        "level": 1,
+        "prerequisites": [],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "Бинт стерильный",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Банка с витаминами OLOLO",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Шприц в упаковке",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Набор медикаментов",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Скорость восстановления здоровье +55 НР/ч (всего +82 НР/ч)"
+        ],
+        "cost": "693 356₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 1"
+          },
+          {
+            "icon": "hideout-icon icon_Medstation",
+            "label": "Медблок 1"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Бутылка физраствора",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Жгут Эсмарха",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Набор для переливания крови",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Медицинские инструменты",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Скорость восстановления здоровья +92 НР/ч (всего +174 НР/ч)"
+        ],
+        "cost": "1 675 550₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 2"
+          },
+          {
+            "icon": "hideout-icon icon_Lavatory",
+            "label": "Санузел 2"
+          },
+          {
+            "icon": "hideout-icon icon_Medstation",
+            "label": "Медблок 2"
+          }
+        ],
+        "time": "12 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Бутылка физраствора",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Светодиодный трансиллюминатор кожи LEDX",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Офтальмоскоп",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Nutrition Unit": [
+      {
+        "bonuses": [
+          "Энергия +6 EP/ч"
+        ],
+        "cost": "261 000₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 1"
+          }
+        ],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "Банка с солью",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Реле контроля фаз",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Силовой кабель",
+            "width": 79
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Энергия +6 ЕР/ч (всего +12 ЕР/ч)",
+          "Здоровье +32 НР/ч"
+        ],
+        "cost": "778 264₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Lavatory",
+            "label": "Санузел 2"
+          },
+          {
+            "icon": "hideout-icon icon_NutritionUnit",
+            "label": "Пищеблок 1"
+          }
+        ],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 79,
+            "label": "Щелочное средство для промывки теплообменных поверхностей",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Гофрированный шланг",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Реле контроля фаз",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Гаечный ключ",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Энергия +24 EP/ч (Всего 36 EP/ч)",
+          "Гидратация +12 НР/ч"
+        ],
+        "cost": "544 981₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 2"
+          },
+          {
+            "icon": "hideout-icon icon_Lavatory",
+            "label": "Санузел 2"
+          },
+          {
+            "icon": "hideout-icon icon_NutritionUnit",
+            "label": "Пищеблок 2"
+          },
+          {
+            "icon": "hideout-icon icon_Stash",
+            "label": "Склад 2"
+          }
+        ],
+        "time": "14 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Банка кофе Majaica",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Пачка соды",
+            "width": 40
+          },
+          {
+            "height": 79,
+            "label": "Средство для прочистки труб \"Копченый Дымоход\"",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Rest Space": [
+      {
+        "bonuses": [
+          "Скорость удаления негативных эффектов -10%"
+        ],
+        "cost": "58 000₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 1"
+          }
+        ],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "Обычные спички",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Монтажный скотч",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Восстановление энергии +3 ЕР/ч",
+          "Восстановление здоровья +23 НР/ч"
+        ],
+        "cost": "278 555₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 1"
+          },
+          {
+            "icon": "hideout-icon icon_RestSpace",
+            "label": "Зона Отдыха 1"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "DVD привод",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Энергосберегающая лампа",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Магнит",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Восстановление здоровья +46 НР/ч",
+          "Максимальный запас энергии +10"
+        ],
+        "cost": "1 399 985₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_RestSpace",
+            "label": "Зона Отдыха 2"
+          }
+        ],
+        "time": "2 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Пучок проводов",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Конденсаторы",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Литиевая аккумуляторная батарейка GreenBat",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Силовой кабель",
+            "width": 79
+          }
+        ]
+      }
+    ],
+    "Scav Case": [
+      {
+        "bonuses": [
+          "Дикие за плату будут пытаться найти вам различные предметы.",
+          "500 рублей - 41мин - 1-2 - 1-2 обычных предмета, 0-1 редкий предметов",
+          "7000 рублей - 2ч 8мин - 1 обычный предмет, 1-3 редких предметов",
+          "85 000 рублей - 2ч 15мин - 1-3 редких предметов, 1-3 очень редких предметов",
+          "1x Бутылка самогона \"Лютый топорист\" - 4ч 40мин - 1 редкий предмет, 4-6 очень редких предметов",
+          "1x Папка с разведданными - 5ч 20мин - 2-4 редких предметов, 2-3 очень редких предметов"
+        ],
+        "cost": "1 711 405₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_IntelligenceCenter",
+            "label": "Разведцентр 2"
+          }
+        ],
+        "time": "80 часа(ов)",
+        "items": [
+          {
+            "height": 70,
+            "label": "Бутылка самогона \"Лютый Топорист\"",
+            "width": 35
+          },
+          {
+            "height": 35,
+            "label": "Бронзовый лев",
+            "width": 53
+          },
+          {
+            "height": 35,
+            "label": "Золотое кольцо с черепом",
+            "width": 35
+          },
+          {
+            "height": 35,
+            "label": "Золотая цепочка",
+            "width": 35
+          },
+          {
+            "height": 71,
+            "label": "Золотой петух",
+            "width": 71
+          },
+          {
+            "height": 71,
+            "label": "Кейс для хлама",
+            "width": 71
+          },
+          {
+            "height": 35,
+            "label": "Золотые часы Roler Submariner",
+            "width": 35
+          }
+        ]
+      }
+    ],
+    "Security": [
+      {
+        "bonuses": [],
+        "cost": "34 000₽",
+        "level": 1,
+        "prerequisites": [],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "Строительная измерительная рулетка",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "200 598₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Illumination",
+            "label": "Освещение 1"
+          },
+          {
+            "icon": "hideout-icon icon_Security",
+            "label": "Безопасность 1"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Плоскогубцы Elite",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Тротиловая шашка ТП-200",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "WD-40 (100мл)",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "623 767₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Illumination",
+            "label": "Освещение 3"
+          },
+          {
+            "icon": "hideout-icon icon_Security",
+            "label": "Безопасность 2"
+          }
+        ],
+        "time": "17 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Пучок проводов",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Объектив NIXXOR",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "SSD диск",
+            "width": 40
+          },
+          {
+            "height": 79,
+            "label": "Рабочий LCD дисплей",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Shooting Range": [
+      {
+        "bonuses": [
+          "Возможность опробовать свое огнестрельное оружие"
+        ],
+        "cost": "118 886₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Illumination",
+            "label": "Освещение 1"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Болты",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Набор металлических частей",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Гайки",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Возможность опробовать свое огнестрельное оружие"
+        ],
+        "cost": "1 415 653₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_ShootingRange",
+            "label": "Тир 1"
+          },
+          {
+            "icon": "hideout-icon icon_Illumination",
+            "label": "Освещение 3"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 2"
+          }
+        ],
+        "time": "24 часа(ов)",
+        "items": [
+          {
+            "height": 25,
+            "label": "Пучок проводов",
+            "width": 25
+          },
+          {
+            "height": 25,
+            "label": "Строительная измерительная рулетка",
+            "width": 25
+          },
+          {
+            "height": 50,
+            "label": "Электродрель",
+            "width": 50
+          },
+          {
+            "height": 50,
+            "label": "Электродвигатель",
+            "width": 50
+          },
+          {
+            "height": 25,
+            "label": "Энергосберегающая лампа",
+            "width": 25
+          },
+          {
+            "height": 25,
+            "label": "Набор металлических частей",
+            "width": 25
+          },
+          {
+            "height": 25,
+            "label": "Пакет саморезов",
+            "width": 25
+          },
+          {
+            "height": 50,
+            "label": "Набор инструментов",
+            "width": 50
+          },
+          {
+            "height": 25,
+            "label": "Тюбик холодной сварки Poxeram",
+            "width": 25
+          },
+          {
+            "height": 25,
+            "label": "WI-FI Камера",
+            "width": 25
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Возможность опробовать свое огнестрельное оружие"
+        ],
+        "cost": "1 592 866₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_ShootingRange",
+            "label": "Тир 2"
+          }
+        ],
+        "time": "24 часа(ов)",
+        "items": [
+          {
+            "height": 30,
+            "label": "Пучок проводов",
+            "width": 30
+          },
+          {
+            "height": 30,
+            "label": "Конденсаторы",
+            "width": 30
+          },
+          {
+            "height": 30,
+            "label": "Мультитул Leatherman",
+            "width": 30
+          },
+          {
+            "height": 30,
+            "label": "Набор металлических частей",
+            "width": 30
+          },
+          {
+            "height": 30,
+            "label": "Реле контроля фаз",
+            "width": 30
+          },
+          {
+            "height": 30,
+            "label": "Силовой кабель",
+            "width": 59
+          },
+          {
+            "height": 30,
+            "label": "Печатная плата",
+            "width": 30
+          },
+          {
+            "height": 60,
+            "label": "Набор напильников \"Мастер\"",
+            "width": 60
+          },
+          {
+            "height": 59,
+            "label": "Техническая документация",
+            "width": 30
+          }
+        ]
+      }
+    ],
+    "Solar Power": [
+      {
+        "bonuses": [
+          "Потребление топлива -50%"
+        ],
+        "cost": "6 070 559₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 3"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 3"
+          }
+        ],
+        "time": "72 часа(ов)",
+        "items": [
+          {
+            "height": 80,
+            "label": "Передовой преобразователь тока",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Военный кабель",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Военный фильтр питания",
+            "width": 40
+          },
+          {
+            "height": 80,
+            "label": "Элемент фазированной решетки РЛС",
+            "width": 80
+          },
+          {
+            "height": 79,
+            "label": "Рабочий LCD дисплей",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Stash": [
+      {
+        "bonuses": [
+          "Склад малого размера (10x28)"
+        ],
+        "cost": "0₽",
+        "level": 1,
+        "prerequisites": [],
+        "time": "Мгновенно",
+        "items": []
+      },
+      {
+        "bonuses": [
+          "Склад среднего размера (10x38)"
+        ],
+        "cost": "2 982 310₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Stash",
+            "label": "Склад 1"
+          },
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 1"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Ручная дрель",
+            "width": 60
+          },
+          {
+            "height": 40,
+            "label": "Пачка гвоздей",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Пакет саморезов",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "WD-40 (100мл)",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Склад большого размера (10x48)"
+        ],
+        "cost": "9 152 465₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Stash",
+            "label": "Склад 2"
+          },
+          {
+            "icon": "hideout-icon icon_Heating",
+            "label": "Обогрев 2"
+          },
+          {
+            "icon": "hideout-icon icon_Stash",
+            "label": "Склад 1"
+          },
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 2"
+          }
+        ],
+        "time": "12 часа(ов)",
+        "items": [
+          {
+            "height": 80,
+            "label": "Электродрель",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Пачка гвоздей",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Пакет саморезов",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Склад максимального размера (10x68)"
+        ],
+        "cost": "845 526₽",
+        "level": 4,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Stash",
+            "label": "Склад 3"
+          },
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 3"
+          },
+          {
+            "icon": "hideout-icon icon_Heating",
+            "label": "Обогрев 3"
+          },
+          {
+            "icon": "hideout-icon icon_IntelligenceCenter",
+            "label": "Разведцентр 2"
+          },
+          {
+            "icon": "hideout-icon icon_Stash",
+            "label": "Склад 2"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 3"
+          }
+        ],
+        "time": "96 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Болты",
+            "width": 40
+          },
+          {
+            "height": 79,
+            "label": "Трещоточный ключ",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Гайки",
+            "width": 40
+          },
+          {
+            "height": 80,
+            "label": "Монтажная пена Shustrilo",
+            "width": 27
+          }
+        ]
+      }
+    ],
+    "Vents": [
+      {
+        "bonuses": [],
+        "cost": "25 000₽",
+        "level": 1,
+        "prerequisites": [],
+        "time": "Мгновенно",
+        "items": []
+      },
+      {
+        "bonuses": [],
+        "cost": "550 995₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 1"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Автомобильный аккумулятор",
+            "width": 60
+          },
+          {
+            "height": 40,
+            "label": "Процессорный кулер",
+            "width": 40
+          },
+          {
+            "height": 80,
+            "label": "Электродвигатель",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Набор металлических частей",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "1 570 312₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 1"
+          },
+          {
+            "icon": "hideout-icon icon_Vents",
+            "label": "Вентиляция 2"
+          }
+        ],
+        "time": "10 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Пучок проводов",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Автомобильный аккумулятор",
+            "width": 60
+          },
+          {
+            "height": 80,
+            "label": "Электродвигатель",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Набор металлических частей",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Печатная плата",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Water Collector": [
+      {
+        "bonuses": [
+          "Гидрация +6 WP/ч"
+        ],
+        "cost": "670 654₽",
+        "level": 1,
+        "prerequisites": [],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "Болты",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Гофрированный шланг",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Монтажный скотч",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Гайки",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Гидрация +12 WP/ч (всего 18 WP/ч)"
+        ],
+        "cost": "809 820₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_WaterCollector",
+            "label": "Водосборник 1"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 1"
+          }
+        ],
+        "time": "2 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Гофрированный шланг",
+            "width": 79
+          },
+          {
+            "height": 80,
+            "label": "Электродвигатель",
+            "width": 80
+          },
+          {
+            "height": 40,
+            "label": "Липкая лента \"KEKТЕЙП\"",
+            "width": 40
+          },
+          {
+            "height": 80,
+            "label": "Набор инструментов",
+            "width": 80
+          }
+        ]
+      },
+      {
+        "bonuses": [
+          "Гидрация +24 WP/ч (всего 42 WP/ч)"
+        ],
+        "cost": "423 767₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 3"
+          },
+          {
+            "icon": "hideout-icon icon_Heating",
+            "label": "Обогрев 2"
+          },
+          {
+            "icon": "hideout-icon icon_WaterCollector",
+            "label": "Водосборник 2"
+          }
+        ],
+        "time": "16 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Плоскогубцы Elite",
+            "width": 40
+          },
+          {
+            "height": 79,
+            "label": "Трещоточный ключ",
+            "width": 40
+          },
+          {
+            "height": 80,
+            "label": "Монтажная пена Shustrilo",
+            "width": 27
+          }
+        ]
+      }
+    ],
+    "Workbench": [
+      {
+        "bonuses": [
+          "Доступ к функции \"Модификация оружия\""
+        ],
+        "cost": "122 436₽",
+        "level": 1,
+        "prerequisites": [],
+        "time": "Мгновенно",
+        "items": [
+          {
+            "height": 40,
+            "label": "Болты",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Мультитул Leatherman",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Гайки",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "702 877₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Illumination",
+            "label": "Освещение 1"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 1"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 39,
+            "label": "Болты",
+            "width": 39
+          },
+          {
+            "height": 77,
+            "label": "Электродрель",
+            "width": 77
+          },
+          {
+            "height": 77,
+            "label": "Набор напильников \"Мастер\"",
+            "width": 77
+          },
+          {
+            "height": 77,
+            "label": "Набор инструментов",
+            "width": 77
+          },
+          {
+            "height": 39,
+            "label": "Оружейные части",
+            "width": 77
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "670 523₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Generator",
+            "label": "Генератор 2"
+          },
+          {
+            "icon": "hideout-icon icon_Stash",
+            "label": "Склад 2"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 2"
+          }
+        ],
+        "time": "11 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Оружейная смазка #FireKlean",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Банка с термитной смесью",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Плоскогубцы Elite",
+            "width": 40
+          }
+        ]
+      }
+    ],
+    "Weapon Rack": [
+      {
+        "bonuses": [],
+        "cost": "1 040 755₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Illumination",
+            "label": "Освещение 3"
+          },
+          {
+            "icon": "hideout-icon icon_Stash",
+            "label": "Склад 2"
+          }
+        ],
+        "time": "12 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Болты",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Энергосберегающая лампа",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Ручная дрель",
+            "width": 60
+          },
+          {
+            "height": 40,
+            "label": "Изолента",
+            "width": 40
+          },
+          {
+            "height": 79,
+            "label": "Ножницы для резки металла",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Пачка гвоздей",
+            "width": 40
+          },
+          {
+            "height": 80,
+            "label": "Монтажная пена Xenomorph",
+            "width": 27
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "1 881 201₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Оружейный стенд 1"
+          },
+          {
+            "icon": "hideout-icon icon_ShootingRange",
+            "label": "Тир 2"
+          },
+          {
+            "icon": "hideout-icon icon_Stash",
+            "label": "Склад 3"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 2"
+          }
+        ],
+        "time": "18 часа(ов)",
+        "items": [
+          {
+            "height": 27,
+            "label": "Пучок проводов",
+            "width": 27
+          },
+          {
+            "height": 27,
+            "label": "Монтажный скотч",
+            "width": 27
+          },
+          {
+            "height": 55,
+            "label": "Электродрель",
+            "width": 55
+          },
+          {
+            "height": 27,
+            "label": "Энергосберегающая лампа",
+            "width": 27
+          },
+          {
+            "height": 27,
+            "label": "Набор металлических частей",
+            "width": 27
+          },
+          {
+            "height": 27,
+            "label": "Пакет саморезов",
+            "width": 27
+          },
+          {
+            "height": 55,
+            "label": "Набор напильников \"Мастер\"",
+            "width": 55
+          },
+          {
+            "height": 27,
+            "label": "Тюбик холодной сварки Poxeram",
+            "width": 27
+          },
+          {
+            "height": 27,
+            "label": "Оружейные части",
+            "width": 54
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "1 895 768₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Оружейный стенд 2"
+          },
+          {
+            "icon": "hideout-icon icon_ShootingRange",
+            "label": "Тир 3"
+          },
+          {
+            "icon": "hideout-icon icon_Workbench",
+            "label": "Верстак 3"
+          }
+        ],
+        "time": "24 часа(ов)",
+        "items": [
+          {
+            "height": 38,
+            "label": "Оружейная смазка #FireKlean",
+            "width": 38
+          },
+          {
+            "height": 38,
+            "label": "Пучок проводов",
+            "width": 38
+          },
+          {
+            "height": 77,
+            "label": "Электродрель",
+            "width": 77
+          },
+          {
+            "height": 38,
+            "label": "Энергосберегающая лампа",
+            "width": 38
+          },
+          {
+            "height": 38,
+            "label": "Липкая лента \"KEKТЕЙП\"",
+            "width": 38
+          },
+          {
+            "height": 38,
+            "label": "Набор металлических частей",
+            "width": 38
+          },
+          {
+            "height": 76,
+            "label": "Монтажная пена Shustrilo",
+            "width": 26
+          },
+          {
+            "height": 76,
+            "label": "Техническая документация",
+            "width": 38
+          }
+        ]
+      }
+    ],
+    "Hall of Fame": [
+      {
+        "bonuses": [],
+        "cost": "573 988₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 6"
+          },
+          {
+            "icon": "hideout-icon icon_Illumination",
+            "label": "Освещение 2"
+          }
+        ],
+        "time": "12 часа(ов)",
+        "items": [
+          {
+            "height": 80,
+            "label": "Статуэтка кота",
+            "width": 27
+          },
+          {
+            "height": 40,
+            "label": "Флисовая ткань",
+            "width": 79
+          },
+          {
+            "height": 40,
+            "label": "Изолента",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Лампа накаливания",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Пачка гвоздей",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Круглогубцы",
+            "width": 40
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "816 449₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_HallOfFame",
+            "label": "Уголок боевой славы 1"
+          },
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 6"
+          }
+        ],
+        "time": "18 часа(ов)",
+        "items": [
+          {
+            "height": 31,
+            "label": "Монтажный скотч",
+            "width": 31
+          },
+          {
+            "height": 31,
+            "label": "Энергосберегающая лампа",
+            "width": 31
+          },
+          {
+            "height": 61,
+            "label": "Золотой петух",
+            "width": 61
+          },
+          {
+            "height": 31,
+            "label": "Пакет саморезов",
+            "width": 31
+          },
+          {
+            "height": 31,
+            "label": "Плоскогубцы Elite",
+            "width": 31
+          },
+          {
+            "height": 61,
+            "label": "Техническая документация",
+            "width": 31
+          },
+          {
+            "height": 61,
+            "label": "Набор инструментов",
+            "width": 61
+          },
+          {
+            "height": 31,
+            "label": "Тюбик холодной сварки Poxeram",
+            "width": 31
+          },
+          {
+            "height": 61,
+            "label": "Монтажная пена Xenomorph",
+            "width": 21
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "1 915 834₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_HallOfFame",
+            "label": "Уголок боевой славы 2"
+          },
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 6"
+          }
+        ],
+        "time": "24 часа(ов)",
+        "items": [
+          {
+            "height": 29,
+            "label": "Бронзовый лев",
+            "width": 43
+          },
+          {
+            "height": 58,
+            "label": "Электродрель",
+            "width": 58
+          },
+          {
+            "height": 29,
+            "label": "Энергосберегающая лампа",
+            "width": 29
+          },
+          {
+            "height": 29,
+            "label": "Липкая лента \"KEKТЕЙП\"",
+            "width": 29
+          },
+          {
+            "height": 29,
+            "label": "Набор металлических частей",
+            "width": 29
+          },
+          {
+            "height": 29,
+            "label": "Силовой кабель",
+            "width": 57
+          },
+          {
+            "height": 58,
+            "label": "Набор напильников \"Мастер\"",
+            "width": 58
+          },
+          {
+            "height": 29,
+            "label": "Тройник",
+            "width": 29
+          }
+        ]
+      }
+    ],
+    "Gear Rack": [
+      {
+        "bonuses": [],
+        "cost": "1 672 302₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 6"
+          },
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 6"
+          },
+          {
+            "icon": "hideout-icon icon_Illumination",
+            "label": "Освещение 2"
+          }
+        ],
+        "time": "6 часа(ов)",
+        "items": [
+          {
+            "height": 37,
+            "label": "Шило",
+            "width": 37
+          },
+          {
+            "height": 37,
+            "label": "Болты",
+            "width": 37
+          },
+          {
+            "height": 75,
+            "label": "Электродрель",
+            "width": 75
+          },
+          {
+            "height": 37,
+            "label": "Энергосберегающая лампа",
+            "width": 37
+          },
+          {
+            "height": 37,
+            "label": "Флисовая ткань",
+            "width": 74
+          },
+          {
+            "height": 37,
+            "label": "Мультитул Leatherman",
+            "width": 37
+          },
+          {
+            "height": 37,
+            "label": "Набор для шитья",
+            "width": 37
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "2 065 427₽",
+        "level": 2,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_GearRack",
+            "label": "Стенд со снаряжением 1"
+          },
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 6"
+          },
+          {
+            "icon": "hideout-icon icon_HallOfFame",
+            "label": "Уголок боевой славы 1"
+          }
+        ],
+        "time": "12 часа(ов)",
+        "items": [
+          {
+            "height": 39,
+            "label": "Арамидная ткань",
+            "width": 77
+          },
+          {
+            "height": 39,
+            "label": "Монтажный скотч",
+            "width": 39
+          },
+          {
+            "height": 78,
+            "label": "Электродрель",
+            "width": 78
+          },
+          {
+            "height": 39,
+            "label": "Энергосберегающая лампа",
+            "width": 39
+          },
+          {
+            "height": 39,
+            "label": "Пачка гвоздей",
+            "width": 39
+          },
+          {
+            "height": 78,
+            "label": "Монтажная пена Shustrilo",
+            "width": 26
+          },
+          {
+            "height": 39,
+            "label": "Гаечный ключ",
+            "width": 39
+          }
+        ]
+      },
+      {
+        "bonuses": [],
+        "cost": "3 202 743₽",
+        "level": 3,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_GearRack",
+            "label": "Стенд со снаряжением 2"
+          },
+          {
+            "icon": "hideout-icon icon_DefectiveWall",
+            "label": "Аварийная стена 6"
+          },
+          {
+            "icon": "hideout-icon icon_HallOfFame",
+            "label": "Уголок боевой славы 2"
+          }
+        ],
+        "time": "24 часа(ов)",
+        "items": [
+          {
+            "height": 36,
+            "label": "Набор для ремонта бронежилетов (1500/1500)",
+            "width": 53
+          },
+          {
+            "height": 36,
+            "label": "Полиамидная ткань Кордура",
+            "width": 71
+          },
+          {
+            "height": 36,
+            "label": "Энергосберегающая лампа",
+            "width": 36
+          },
+          {
+            "height": 36,
+            "label": "Липкая лента \"KEKТЕЙП\"",
+            "width": 36
+          },
+          {
+            "height": 36,
+            "label": "Набор металлических частей",
+            "width": 36
+          },
+          {
+            "height": 71,
+            "label": "Трещоточный ключ",
+            "width": 36
+          },
+          {
+            "height": 71,
+            "label": "Набор напильников \"Мастер\"",
+            "width": 71
+          }
+        ]
+      }
+    ],
+    "Cultist Circle": [
+      {
+        "bonuses": [],
+        "cost": "307 308₽",
+        "level": 1,
+        "prerequisites": [
+          {
+            "icon": "hideout-icon icon_Security",
+            "label": "Безопасность 1"
+          }
+        ],
+        "time": "1 часа(ов)",
+        "items": [
+          {
+            "height": 40,
+            "label": "Банка с солью",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Строительная измерительная рулетка",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Лампа накаливания",
+            "width": 40
+          },
+          {
+            "height": 79,
+            "label": "Спрей от насекомых PAID AntiRoach",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "Зажигалка выживальщика SurvL",
+            "width": 40
+          },
+          {
+            "height": 40,
+            "label": "WI-FI Камера",
+            "width": 40
+          }
+        ]
+      }
+    ]
+  }
+}
